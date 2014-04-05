@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="about">About</string>
+    <string name="aboutnr">We only use all natural products. We are 100% VG  company. We will not use PG in any of our products. We take pleasure in making all products from USDA-certified organic flavors – no sugar add, alcohol free &amp; gluten – free. We strive for excellence  in everyone of our products.</string>
+    <string name="app_name">Natural Royale</string>
+    <string name="aboutvg">Vegetable glycerin is a considerably thicker solution, compared to propylene glycol. On its own, VG has a slight sweet taste which also makes the e-liquid sweeter and the flavors a little difficult to detect. While PG is know to give users a dry mouth, some vapers have complained about phlegm building up in their throat after suing vegetable glycerin-based juices. You also get less of a throat hit when using VG. On the upside, because of its high consistency, VG e-liquids produce significantly more vapor and doesn’t cause allergic reactions or irritations as often as propylene glycol.</string>
+    <string name="action_settings">Settings</string>
+    <string name="contact">Contact Us</string>
+    <string name="description">Description</string>
+    <string name="eliquid">E - Liquid</string>
+    <string name="email">e-mail</string>
+    <string name="emailus">sales@naturalroyale.com</string>
+    <string name="entermessage">Enter a Message</string>
+    <string name="exit">Exit</string>
+    <string name="flavors">Flavors</string>
+    <string name="facebook">Facebook</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="home">Home</string>
+    <string name="map">Map</string>
+    <string name="maps">Find Us</string>
+    <string name="menu_settings">Menu Settings</string>
+    <string name="madein">Made in Seattle</string>
+    <string name="made">Made in Seattle</string>
+    <string name="number">Page Number</string>
+    <string name="nostring"></string>
+    <string name="ok">OK</string>
+    <string name="phone">Phone</string>
+    <string name="tagline">100% Organic, Vegan, Gluten-Free. </string>
+    <string name="send">Send</string>
+    <string name="single_dialog">The Flavor is: </string>
+    <string name="title_activity_single_dialog">SingleDialog</string>
+    <string name="refresh">Refresh</string>
+    <string name="website">Official Website</string>
+    <string name="yourname">Enter your Full Name</string>
+    <string name="youremail">Enter your Email</string>
+    <string name="whyvg">Vegetable Glycerin (VG)</string>
+
+    <color name="forestgreen">#009900</color>
+    <color name="darkforestgreen">#006600</color>
+    <color name="lightforestgreen">#00CC00</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="darkgray">#333333</color>
+    <color name="lightgray">#CCCCCC</color>
+    <color name="grad_start">#FFFFFF</color>
+    <color name="grad_end">#B0E0E6</color>
+
+</resources>
